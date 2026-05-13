@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212223240021
+# Name: DAKSHATA G
+# Date: 13-05-26
 
 
 # AIM:
@@ -117,9 +117,32 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+# DIAGRAMS:
+## CLASS DIAGRAM
+![EX2 ClassDiagram](https://github.com/user-attachments/assets/baf8ced9-7d8f-44be-8c91-60b4156dd1c8)
+
+
+## USECASE DIAGRAM
+
+![EX2 UseCaseDiagram](https://github.com/user-attachments/assets/ebe228f3-f445-499e-893c-64da72358f85)
+
+
+## ACTIVITY DIAGRAM
+
+![EX2 ActivityDiagram](https://github.com/user-attachments/assets/b4ee2c36-de60-4a8d-bf24-1bdb7f22cfd0)
+
+## PACKAGE DIAGRAM
+![EX2 PackageDiagram](https://github.com/user-attachments/assets/8fc2c4db-8b44-48b7-beb2-5030858dc290)
 
 
 
+## SEQUENCE DIAGRAM
+
+![EX2 SequenceDiagram](https://github.com/user-attachments/assets/60356130-0a00-4f63-ac44-384b99b91ed0)
+
+## COMMUNICATION DIAGRAM
+
+![EX2 CommunicationDiagram](https://github.com/user-attachments/assets/1009f247-955b-4121-ab62-8b6d663fdd42)
 
 
 # RESULT
